@@ -1,5 +1,5 @@
 # Mern-Exercise-Tracker-App
- Practice MERN stack, by making exercise tracker app.
+ exercise tracker app using MERN stack.
 
 1. Few development dependencies are missing from backend and frontend package.json files like - Nodemon, axios, bootstrap, etc.
 2. Set-up MongoDB either on local server or use MongoDB Atlas
